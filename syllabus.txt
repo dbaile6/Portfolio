@@ -1,0 +1,279 @@
+
+Syllabus - Full Stack Immersive (January 2018)
+
+Bear in mind that this syllabus is very likely to change throughout the cohort, but only for the better of course!
+Week 1 - Developer Fundamentals
+
+In your first week, you will gain core coding skills using the Python programming language.
+
+In addition, you will know how to manage your project code by using a variety of tools, such as the command line and git.
+
+    Introduction to the command line
+    Programming fundamentals with Python
+    Sharing code with git and Github
+
+Algorithm FriYay!
+
+In order to prep you for technical interview, we will practice with algorithms and interview questions.
+Week 2 - Solving Problems Using Code
+
+You will work through a number of coding challenges by building solutions in Python. Along the way, you will learn how and when to use data structures like dictionaries, objects, and classes.
+
+You will tackle your first programming project and create a 2D game. By the end of the week, you will have plenty of experience reading, understanding, and debugging coding errors.
+
+    Storing and working with data
+        dictionaries
+        objects
+        classes
+
+    Using the pygame library
+
+Example Projects
+
+    Building 2D graphics games
+
+Algorithm FriYay!
+Week 3 - Front-End Foundations
+
+You will build your front-end web skills starting with HTML and CSS. You will learn how to create web pages, format their contents, and finely control the layout. To do that, you will recreate several popular web page designs (such as medium.com's look and feel).
+
+Then, you will learn techniques to make your layouts auto-adjust to the screen size of whatever device is used to view your web pages. Finally, you will learn to use Bootstrap, a popular and flexible styling framework.
+
+    HTML 101
+    CSS 101
+    Box Model
+    CSS Positioning
+    Specificity
+    Implementing a responsive design
+    Flexbox
+    Grid
+    Media Queries
+    Bootstrap UI framework
+
+Example Projects
+
+    Creating a personal web page
+    Making the Google search page
+    Implementing a blog layout
+
+Algorithm FriYay!
+Week 4 - Handling user input with JavaScript
+
+Now that you can present information to your users, it is time for them to talk back! To provide this kind of interactivity on your web pages, you will begin mastering the basics of JavaScript - the language of the web. Using the same programming fundamentals you learned with Python, you will build a series of interactive games.
+
+And, to make sure your friends and family can play these games, you will learn how to deploy your web-based games to Linux servers running on Amazon's AWS platform. This will be an intense week, but extremely rewarding!
+
+    Introduction to JavaScript
+    ES5
+    Functions
+    Scoping and hoisting
+    Callbacks
+    DOM
+    CSS transitions and animations
+    Forms and validation
+
+Example Projects
+
+    Countdown timer
+    Photo Gallery
+    Tic Tac Toe
+
+Algorithm FriYay!
+Quiz #1
+
+Your first quiz!
+Week 5 - Building Interactive UIs with jQuery
+
+jQuery is the most widely used JavaScript library in the world, and for good reason. You will learn how to use the power of jQuery to quickly develop highly interactive web pages. You will build more games this week, but using animations and transitions to provide visual feedback to your users.
+
+There will be times you will need some, but not all, of jQuery's capabilities. You will learn how and when to use CSS for animation, as well as how to use Bootstrap's built-in visual feedback features.
+
+    jQuery
+        Selectors
+        Event listeners
+        Creating DOM elements
+
+    Ajax
+        fetch
+        $.ajax
+
+    IIFEs
+
+    Promises
+
+    Event loop
+
+    Web APIs
+
+    Deploying to Amazon Web Services
+
+Example Projects
+
+    Weather widget
+    Stock ticker
+    Coffee order form
+
+Algorithm FriYay!
+Performance Review #1
+
+Time for some quick feedback from your instructor to make sure you are on track… and to submit feedback for your instructor!
+Week 6 - Intro to Agile/Scrum + Front End Project Week
+
+    Using git and Github to manage your code
+    Code reviews
+
+Week 7 - Introduction to Backend Development
+
+Up to now, you've only worked with half of the web - the half that works in the browser. To create web pages that allow for collaboration between users (multi-player games, social media sites, etc.), you will need to write code that runs on the server. This week you will create a simple web server (yes, a web server!) using Node.js.
+
+Just like JavaScript on the browser, there are a number of handy libraries that you can use. You will learn to install and manage those using the npm command that comes with Node.js.
+
+One of these libraries will let you use WebSockets for building real-time applications. As an exercise, you'll build the backend and front-end of a chat application.
+
+    Node.js
+
+    npm
+
+    File IO
+
+    async and sync APIs
+
+    WebSockets
+
+    ES2015
+        Variables
+        Arrow functions
+        Destructuring
+        Modules
+
+    Next generation JavaScript
+        Babel
+
+Example Projects
+
+    Build a basic web server
+    Build a chat application
+
+Algorithm FriYay!
+Week 8 - Databases
+
+At the heart of any blog, social media site, or collaborateive web app is its databse. Often, your data will have complex relationships ("a blog post has an author and one or more comments from a registered user"). Dealing with this data is straightforward, as long as you can speak the language. This week, you will learn how to "talk" to a database using SQL (Structured Query Langauge).
+
+    PostgreSQL
+    Create statements
+    Insert statements
+    Select statements
+    Where statements
+    Foreign keys and joins
+    Group by and aggregate statements
+
+As your backend code gets larger and more complex, you will need ways to store data, organize your code, and develop quickly. This week you'll be using the Express.js framework, a minimalist backend framework that will help you write backend code. You'll learn how to take advantage of Express.js's routing, templating, and session management.
+
+    Sequelize
+    Express.js
+    ES2017 async functions
+    JSON Web Tokens
+    Bcrypt
+
+Example Projects
+
+    Build your own wiki
+    Intelligent flash card app
+
+Algorithm FriYay!
+Week 9 - Full Stack Group Project
+Quiz #2
+
+Your second (and last) quiz.
+Week 10 - Career Development + Portfolio Week
+
+It is now time to piece together your hard work to illustrate how you can add value to your future employer. Arming yourself with the tools necessary to succeed in the job search is just as important as learning how to become the best software engineer. You will spend a minimum of 3 days this week preparing your resume, portfolio, and undergoing a round of mock interviews with professional engineers.
+
+    Resume Development
+    Portfolio Development
+    Mock Interview Training
+    Guest Speakers
+
+Algorithm FriYay!
+Performance Review #2
+
+Get feedback, give feedback!
+Week 11 - Introducing React
+
+React is a small but flexible front-end library that helps you create UIs. It is especially well-suited for UIs that need to display data that updates frequently. This week, you will learn the basics of building React applications, relying primarily on your understanding of JavaScript fundamentals.
+
+You will start with simple functions that draw data to the page and build up your React knowledge. By the end of the week, you will be creating and (re)using highly-performant React components.
+
+    Components
+    JSX
+    Stateless functional components
+    state and props
+    Lifecycle API
+    Virtual DOM
+    create-react-app
+    React Dev Tools
+
+Example Projects
+
+    Secret message encoder
+    Shopping list
+    Real-time public transit dashboard
+
+Algorithm FriYay!
+Week 12 - The React Ecosystem
+
+React has made a lot of friends in its first few years of life. To write fluent React code that takes advantage of battle-tested libraries, you will want to be friends with React's friends.
+
+This week involves learning the basics of a lot of different tools that help you write high-quality React code.
+
+    Yarn
+    React Router
+    Axios
+    CSS Modules
+    Higher-order components
+    Functional programming patterns
+
+Example Projects
+
+    Wikipedia
+    Twitter
+
+Algorithm FriYay!
+Week 13 - Managing Application State with Redux
+
+You will learn how to work with complex data in your React applications using the industry-standard Redux library. Redux mirrors React's one-way data flow and helps wrangle user interactions that cause complex changes to your data.
+
+    Redux Intro
+    The state tree
+    Redux DevTools
+    Reducers
+    Actions
+
+Example Projects
+
+    eCommerce site
+    Music player
+
+Algorithm FriYay!
+Week 14 - Additional Topics + Full Stack Project Week
+
+We'll cover a number of bonus topics in this week prior to the beginning of the final project. Examples include:
+
+    Progressive Web Apps
+    React Native
+    AR
+    React VR
+    Next.js (Server-Rendered React)
+    GraphQL
+    Functional reactive programming with RxJS
+
+Additional backend topics:
+
+    Koa.js
+    Templating
+    Sessions
+    Cookies
+    OAuth 2
+
+Weeks 15, 16 - Capstone project
+Performance Review #3
